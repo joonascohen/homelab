@@ -27,5 +27,13 @@
 ## Home Network
 - Tailscale VPN
     - Peer-to-Peer wireguard VPN
+- Plans
+    - Unifi Dream Router
+    - 12u Network Rack
+        - Proxmox VE
+        - Dell Desktop
+        - Network Switch
+        - 4u NAS
+        - 2u/4u Gaming Build
 
 
