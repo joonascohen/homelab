@@ -14,10 +14,14 @@
 - LXC Containers
     - pihole
     - docker
-        - Mainly running monitoring containers such as Grafana, Uptime Kuma
+        - Grafana
+        - Netdata
+        - Uptime Kuma
+        - Portainer
+        - InfluxDB
 
 ## Dell Desktop
-> Old recycled business computer
+> Old recycled business computer. I use this as my main Linux machine and to SSH into my Proxmox VMs.
 - Specs:
     - *CPU:* Intel Pentium G3220
     - *RAM:* 4GB
@@ -27,13 +31,9 @@
 ## Home Network
 - Tailscale VPN
     - Peer-to-Peer wireguard VPN
+    - Subnet router configuration to SSH to my whole home network while remote
+- Syncthing
+    - File synchronization
 - Plans
     - Unifi Dream Router
     - 12u Network Rack
-        - Proxmox VE
-        - Dell Desktop
-        - Network Switch
-        - 4u NAS
-        - 2u/4u Gaming Build
-
-
